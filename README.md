@@ -176,8 +176,16 @@ El software permite gestionar todo el ciclo de reparación: desde la recepción 
 - **"Add item from repository"** = Añade issues existentes al roadmap
 - **"Create new issue"** = Crea una nueva issue desde el roadmap
 
+## 11. Asignación de Issues
 
-  
+### Acciones realizadas:
+1. **Issue asignada:** [RF1.1] Formulario de recepción de equipos → asignada a RustamBulibekov
+2. **Verificación en My Items:** La issue aparece correctamente en la pestaña "My Items" del proyecto
+
+### Propósito:
+- Seguimiento personal de tareas asignadas
+- Visualización rápida del trabajo personal
+- Organización por responsable
 
 ## Instalación y Configuración
 
