@@ -66,7 +66,7 @@ El software permite gestionar todo el ciclo de reparación: desde la recepción 
 - **Despliegue:** AWS/Heroku
 - **Monitoring:** Sentry, LogRocket
 
-## 📊 Product Backlog
+## Product Backlog
 
 ### Prioridad Alta (MVP)
 1. **RF1.1:** Formulario de recepción de equipos
@@ -135,6 +135,34 @@ El software permite gestionar todo el ciclo de reparación: desde la recepción 
 - **Sprint Planning:** Lunes inicio de sprint (2 horas)
 - **Sprint Review:** Viernes fin de sprint (1.5 horas)
 - **Sprint Retrospective:** Viernes post-review (1 hora)
+
+## Investigación: Columnas en Team Capacity
+
+### Estimate (Estimación)
+**Propósito:** Mostrar la estimación total del trabajo para cada ítem o iteración, generalmente en story points u horas.
+
+**Uso en nuestro proyecto:** Columnas de estimación permiten:
+- Planificar la capacidad del equipo por sprint
+- Hacer seguimiento de la carga de trabajo
+- Ajustar asignaciones según disponibilidad
+
+### Iteration (Iteración)
+**Propósito:** Agrupar tareas por períodos de tiempo específicos (sprints).
+
+**Uso en nuestro proyecto:** Las iteraciones representan nuestros sprints de 2 semanas donde:
+- Cada iteración tiene un conjunto específico de issues
+- Se puede hacer seguimiento del progreso por período
+- Facilita la planificación a corto plazo
+
+### Configuración necesaria:
+1. **Estimate:** Requiere definir unidades (story points/horas) y asignar valores a cada issue
+2. **Iteration:** Requiere crear iteraciones en la configuración del proyecto y asignar issues
+
+### Estado actual:
+- **Size:** Configurado (XS, S, M, L, XL)
+- **Estimate:** Por configurar (necesita valores numéricos)
+  **Iteration:** Por configurar (necesita creación de sprints en proyecto)
+  
 
 ## Instalación y Configuración
 
