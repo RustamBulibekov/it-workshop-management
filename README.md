@@ -162,6 +162,21 @@ El software permite gestionar todo el ciclo de reparación: desde la recepción 
 - **Size:** Configurado (XS, S, M, L, XL)
 - **Estimate:** Por configurar (necesita valores numéricos)
   **Iteration:** Por configurar (necesita creación de sprints en proyecto)
+
+## 10. Roadmap - Items añadidos
+
+### Issue en Roadmap:
+- **[RF1.1] Formulario de recepción de equipos** - Añadida desde el repositorio
+
+### Configuración:
+- **Milestone:** Sprint 1 - Recepción de equipos ✓
+- **Nota:** La interfaz de Roadmap no muestra opciones de edición directa para Type y Size en esta vista, pero la issue está correctamente vinculada al milestone.
+
+### Diferencia observada:
+- **"Add item from repository"** = Añade issues existentes al roadmap
+- **"Create new issue"** = Crea una nueva issue desde el roadmap
+
+
   
 
 ## Instalación y Configuración
