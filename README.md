@@ -187,6 +187,35 @@ El software permite gestionar todo el ciclo de reparación: desde la recepción 
 - Visualización rápida del trabajo personal
 - Organización por responsable
 
+
+## 12. Gestión de Iteraciones - Resultados
+
+### Investigación realizada:
+En la configuración de la issue en Roadmap se encontró la opción "Iteration" que permite:
+
+1. **Asignar a iteraciones existentes:**
+   - Iteration 1: Feb 3 - Feb 16 (Current)
+   - Iteration 2: Feb 17 - Mar 2
+   - Iteration 3: Mar 3 - Mar 16
+
+2. **¿Se puede cambiar el tiempo de iteración? SÍ**
+   - Campos editables: "Start date" y "Target date"
+   - Se pueden crear iteraciones personalizadas
+   - Se pueden modificar las fechas de iteraciones existentes
+
+3. **Proceso para cambiar:**
+   1. Seleccionar la iteración en el dropdown
+   2. Editar "Start date" y "Target date"
+   3. Los cambios se aplican a todas las issues de esa iteración
+
+### Limitaciones observadas:
+- Las iteraciones deben crearse primero en Project Settings
+- No se puede tener tiempo de iteración "infinito" - requiere fechas
+- Las issues solo pueden estar en una iteración a la vez
+
+### Conclusión:
+El sistema de iteraciones en GitHub Projects permite una planificación temporal flexible, adaptándose perfectamente a la metodología Scrum con sprints de 2 semanas.
+
 ## Instalación y Configuración
 
 ### Requisitos Previos
