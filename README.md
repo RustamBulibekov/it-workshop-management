@@ -198,7 +198,7 @@ El software permite gestionar todo el ciclo de reparación: desde la recepción 
 ### Instalación Local
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-usuario/it-workshop-management.git
+git clone https://github.com/RustamBulibekov/it-workshop-management.git
 cd it-workshop-management
 
 # 2. Configurar entorno backend
